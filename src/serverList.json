@@ -1,18 +1,14 @@
 [{
     "name": "USA-LOS",
-    "address": "https://usa-los-tcping.torch.njs.app",
-    "info": "Indexyz"
+    "address": "https://us.lowol.pw",
+    "info": "123"
 }, {
-    "name": "China-广州-移动",
-    "address": "https://guangzhou.mobile.torch.never.eu.org",
-    "info": "DogeSpeed https://doge.me"
+    "name": "HK",
+    "address": "https://hk.lowol.pw",
+    "info": "123"
 }, {
-    "name": "China-重庆-腾讯云",
-    "address": "https://cn-cq-tcping.torch.njs.app",
-    "info": "Indexyz"
-}, {
-    "name": "China-江苏-Yge",
-    "address": "https://ping.torch.meow.ren:12443",
+    "name": "China-腾讯北京",
+    "address": "https://wzz.meow.ren",
     "info": "123"	
 }, {
     "name": "China-多点同测",
